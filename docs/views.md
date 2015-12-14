@@ -28,7 +28,7 @@
 
 Should be apparent from the wireframes.
 
-[home-page]: ./wireframes/HomePage
+[home-page]: ./wireframes/HomePage.png
 [new-session]: ./wireframes/LogIn.png
 [new-user]: ./wireframes/SignUp.png
 [poll-index]: ./wireframes/PollIndex.png
