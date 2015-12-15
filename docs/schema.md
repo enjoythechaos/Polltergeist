@@ -24,8 +24,6 @@ id          | integer   | not null, primary key
 poll_id     | integer   | not null, foreign key (references polls), indexed
 letter      | string    | not null
 body        | string    | not null
-date        | datetime  | not null
-prev_id     | integer   | foreign key (references reminders), indexed
 
 ## response
 column name      | data type | details
