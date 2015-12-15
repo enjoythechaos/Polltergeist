@@ -29,7 +29,7 @@ In Phase 1, I will set up authentication using our auth model.  I will also set 
 
 #### Phase 1a - Preliminary work - (0.5 Days)
 - [ ] Get started with Heroku
-- [ ] Create models, controllers, and API views where applicable for Authentication and Poll, migrate the database, create a seed file, make sure routes are in place.
+- [ ] Create models, controllers, and API views where applicable for Authentication and Poll, migrate the database, create a seed file, make sure routes are in place.  Include model-level validations, including one for the poll-identifier that makes it unique among all polls.
 
 #### Phase 1b - Authentication and the root page
 
