@@ -28,15 +28,16 @@ It also allows visitors to answer polls anonymously by providing the poll's iden
 In Phase 1, I will set up authentication using our auth model.  I will also set up JSON APIs for the Polls controller.  I will also set up the poll model and model-level validations, which basically ensure that a user is logged in to create a poll, and must be the author of the polls she is trying to view, edit, or delete.  I will also create the new, edit, show, and index pages for polls.  I will leave the extension of Polls to PollGroups and AnswerChoices for Phase 2, but the forms will be set up to include AnswerChoices.
 
 #### Phase 1a - Preliminary work - (0.5 Days)
-- [ ] Get started with Heroku
-- [ ] Create models, controllers, and API views where applicable for Authentication and Poll, migrate the database, create a seed file, make sure routes are in place.  Include model-level validations, including one for the poll-identifier that makes it unique among all polls.
+- [X] Get started with Heroku
+- [X] Create models, controllers, and API views where applicable for Authentication and Poll, migrate the database, create a seed file, make sure routes are in place.
+- [ ] Include model-level validations, including one for the poll-identifier that makes it unique among all polls.
 
 #### Phase 1b - Authentication and the root page
 
 I will start with these pages: - (0.5 Days)
-- [ ] Home Page
-- [ ] New User Page
-- [ ] Sign In Page
+- [X] Home Page
+- [X] New User Page
+- [X] Sign In Page
 
 #### Phase 1c - Basic Poll Model Pages (0.5 Days)
 - [ ] Poll Index Page (sans flux actions.)
