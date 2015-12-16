@@ -30,7 +30,6 @@ In Phase 1, I will set up authentication using our auth model.  I will also set 
 #### Phase 1a - Preliminary work - (0.5 Days)
 - [X] Get started with Heroku
 - [X] Create models, controllers, and API views where applicable for Authentication and Poll, migrate the database, create a seed file, make sure routes are in place.
-- [ ] Include model-level validations, including one for the poll-identifier that makes it unique among all polls.
 
 #### Phase 1b - Authentication and the root page
 
@@ -43,6 +42,7 @@ I will start with these pages: - (0.5 Days)
 - [ ] Poll Index Page (sans flux actions.)
 - [ ] New Polls Form
 - [ ] Edit Poll Form
+- [ ] Include model-level validations, including one for the poll-identifier that makes it unique among all polls.
 
 #### Phase 1d - Unforeseen Problems from Phases a-c (0.5 Days)
 
