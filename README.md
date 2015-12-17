@@ -39,9 +39,9 @@ I will start with these pages: - (0.5 Days)
 - [X] Sign In Page
 
 #### Phase 1c - Basic Poll Model Pages (0.5 Days)
-- [ ] Poll Index Page (sans flux actions.)
-- [ ] New Polls Form
-- [ ] Edit Poll Form
+- [X] Poll Index Page (sans flux actions.)
+- [X] New Polls Form
+- [X] Edit Poll Form
 - [ ] Include model-level validations, including one for the poll-identifier that makes it unique among all polls.
 
 #### Phase 1d - Unforeseen Problems from Phases a-c (0.5 Days)
@@ -51,10 +51,10 @@ I will start with these pages: - (0.5 Days)
 Here I will add the model for AnswerChoices and PollGroups, and implement the Flux pattern to facilitate these actions.  Finally, I will create the components that allow a user to answer a poll anonymously, which will involve some new React components, the implementation of the Response model, and the Flux code that creates the Response objects from the user input.
 
 #### Phase 2a - Preliminary Work (0.5 Days)
-- [ ] Create models, controllers, and API views for AnswerChoices, 
-- [ ] Create models, controllers, and API views for PollGroups,
-- [ ] Create models, controllers, and API views for Responses
-- [ ] Populate the database with some seed data
+- [X] Create models, controllers, and API views for AnswerChoices, 
+- [X] Create models, controllers, and API views for PollGroups,
+- [X] Create models, controllers, and API views for Responses
+- [X] Populate the database with some seed data
 
 #### Phase 2b - Flux Actions and Poll Show Page (1 Day)
 - [ ] Create a poll show page
